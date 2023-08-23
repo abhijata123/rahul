@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+.blank
+{
+  color: blue;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
